@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Karan Chirde</h1>
 <h3 align="center">A passionate backed developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chirdekaran262&label=Profile%20views&color=0e75b6&style=flat" alt="chirdekaran262" /> </p>
+- 🌱 I’m currently learning **Spring**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chirdekaran262" alt="chirdekaran262" /></a> </p>
+- 👨‍💻 All of my projects are available at [https://chirdekaran262.github.io/](https://chirdekaran262.github.io/)
+
+- 📫 How to reach me **chirdekaran262@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Run_G607jacqtVUV0wmoNNcj6EmnFazC/view](https://drive.google.com/file/d/1Run_G607jacqtVUV0wmoNNcj6EmnFazC/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
