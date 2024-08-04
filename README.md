@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Run_G607jacqtVUV0wmoNNcj6EmnFazC/view](https://drive.google.com/file/d/1Run_G607jacqtVUV0wmoNNcj6EmnFazC/view)
 
-<h3 align="left">Connect with me: (https://docs.google.com/forms/d/e/1FAIpQLSccinxJFcg-gufOMh0DNB3iZyw0dI56J-tLAPvZNaPgD4yvzw/viewform?usp=sf_link)</h3><br>
+<h3 align="left">Connect with me: </h3>(https://docs.google.com/forms/d/e/1FAIpQLSccinxJFcg-gufOMh0DNB3iZyw0dI56J-tLAPvZNaPgD4yvzw/viewform?usp=sf_link)<br>
 <p align="left">
 </p>
 
