@@ -7,8 +7,7 @@
 
 - 📫 How to reach me **chirdekaran262@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Run_G607jacqtVUV0wmoNNcj6EmnFazC/view](https://drive.google.com/file/d/1Run_G607jacqtVUV0wmoNNcj6EmnFazC/view)
-
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Run_G607jacqtVUV0wmoNNcj6EmnFazC/view](https://drive.google.com/file/d/19rJZLTAeSyn9GR0O4cBqbwbsSU_dWp2Y/view?usp=sharing)
 <h3 align="left">Connect with me: </h3>(https://docs.google.com/forms/d/e/1FAIpQLSccinxJFcg-gufOMh0DNB3iZyw0dI56J-tLAPvZNaPgD4yvzw/viewform?usp=sf_link)<br>
 <p align="left">
 </p>
