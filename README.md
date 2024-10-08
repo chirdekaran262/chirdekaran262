@@ -2,7 +2,7 @@
 <!-- <h3 align="center">A passionate backed developer from India</h3> -->
 <h3 align="center">Computer Science Engineer From India</h3>
 
--A passionate backed developer from India
+-👨‍💻A passionate backed developer 
 
 - 🌱 I’m currently learning **Spring**
 
