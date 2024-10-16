@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Karan Chirde</h1>
 <h3 align="center">Computer Science Engineer from India</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chirdekaran262&label=Profile%20Views&color=0e75b6&style=flat" alt="chirdekaran262" />
-  <img src="https://img.shields.io/github/followers/chirdekaran262?label=Followers" alt="followers" />
-</p>
 
 ---
 
@@ -66,17 +62,16 @@
 
 ### 📊 GitHub Stats:
 
-<p align="center">
+
   <img src="https://github-readme-stats.vercel.app/api?username=chirdekaran262&show_icons=true&locale=en" alt="chirdekaran262" />
-</p>
 
-<p align="center">
+
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chirdekaran262&" alt="chirdekaran262" />
-</p>
 
-<p align="center">
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chirdekaran262&show_icons=true&locale=en&layout=compact" alt="chirdekaran262" />
-</p>
+
 
 ---
 
