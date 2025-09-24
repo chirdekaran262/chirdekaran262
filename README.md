@@ -7,13 +7,15 @@
 
 - 🔭 I’m currently working on [DeepFake Audio Detection](https://github.com/chirdekaran262/DeepFake-SVM)
 
-- 🌱 I’m currently learning **Spring**
+- 🌱 I’m currently **deepening my knowledge in Machine Learning (ML)**
 
 - 👨‍💻 All of my projects are available at [https://portf-black.vercel.com](https://portf-black.vercel.com)
 
-- 💬 Ask me about **java**
+- 💬 Ask me about **Java**
 
-- 📫 How to reach me **chirdekaran262@gmail.com**
+- 📫 How to reach me: **chirdekaran262@gmail.com**
+
+- 🚀 Explore one of my projects: [Paripakv - Empowering Farmers](https://paripakv-krishivision.onrender.com/) 🌾
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
