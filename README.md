@@ -1,20 +1,8 @@
 <div align="center">
 
-```
-██╗  ██╗ █████╗ ██████╗  █████╗ ███╗   ██╗
-██║ ██╔╝██╔══██╗██╔══██╗██╔══██╗████╗  ██║
-█████╔╝ ███████║██████╔╝███████║██╔██╗ ██║
-██╔═██╗ ██╔══██║██╔══██╗██╔══██║██║╚██╗██║
-██║  ██╗██║  ██║██║  ██║██║  ██║██║ ╚████║
-╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:0D1117&height=120&section=header" width="100%"/>
 
- ██████╗██╗  ██╗██╗██████╗ ██████╗ ███████╗
-██╔════╝██║  ██║██║██╔══██╗██╔══██╗██╔════╝
-██║     ███████║██║██████╔╝██║  ██║█████╗  
-██║     ██╔══██║██║██╔══██╗██║  ██║██╔══╝  
-╚██████╗██║  ██║██║██║  ██║██████╔╝███████╗
- ╚═════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚═════╝ ╚══════╝
-```
+# Karan Chirde
 
 ### 🚀 Software Engineer · ML Enthusiast · Problem Solver · India 🇮🇳
 
@@ -31,14 +19,14 @@
 
 > *"First, solve the problem. Then, write the code."*
 
-A passionate **Software Engineer** from Nanded, Maharashtra who loves building impactful software — from intelligent ML systems to full-stack web applications.
+A passionate **Software Engineer** from Nanded, Maharashtra 🇮🇳 who loves building impactful software — from intelligent ML systems to full-stack web applications.
 
 - 🔭 Building **[DeepFake Audio Detection](https://github.com/chirdekaran262/DeepFake-SVM)** using SVM
 - 🌱 Deepening expertise in **Machine Learning & Deep Learning**
 - 🌾 Created **[Paripakv](https://paripakv-krishivision.onrender.com/)** — AI platform for Indian farmers
 - 💬 Ask me about **Java · Python · ML workflows**
-- 📫 Reach me: **chirdekaran262@gmail.com**
-- 🌐 Portfolio: **[portf-black.vercel.app](https://portf-black.vercel.app)**
+- 📫 **chirdekaran262@gmail.com**
+- 🌐 **[portf-black.vercel.app](https://portf-black.vercel.app)**
 
 <br clear="right"/>
 
@@ -102,7 +90,7 @@ A passionate **Software Engineer** from Nanded, Maharashtra who loves building i
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chirdekaran262&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B35&text_color=C9D1D9&ring_color=00D9FF" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chirdekaran262&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B35&text_color=C9D1D9" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chirdekaran262&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" height="180" />
 </div>
 
@@ -143,6 +131,8 @@ A passionate **Software Engineer** from Nanded, Maharashtra who loves building i
 ---
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:0D1117&height=80&section=footer" width="100%"/>
 
 **⭐ If you like my work, consider giving my repos a star — it keeps me building!**
 
