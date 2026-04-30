@@ -26,7 +26,7 @@ A passionate **Software Engineer** from Nanded, Maharashtra 🇮🇳 who loves b
 - 🌾 Created **[Paripakv](https://paripakv-krishivision.onrender.com/)** — AI platform for Indian farmers
 - 💬 Ask me about **Java · Python · ML workflows**
 - 📫 **chirdekaran262@gmail.com**
-- 🌐 **[portf-black.vercel.app](https://portf-black.vercel.app)**
+- 🌐 **[https://karanchirde.netlify.app/](https://karanchirde.netlify.app/)**
 
 <br clear="right"/>
 
