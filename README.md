@@ -95,7 +95,7 @@ A passionate **Software Engineer** from Nanded, Maharashtra 🇮🇳 who loves b
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chirdekaran262&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=8B949E&sideNums=00D9FF" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chirdekaran262&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E&sideNums=00D9FF" />
 </div>
 
 <div align="center">
