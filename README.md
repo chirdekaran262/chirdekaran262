@@ -13,18 +13,18 @@
 
 ---
 
-<img align="right" width="330" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding gif" />
+<img align="right" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding gif" />
 
 ## 👨‍💻 About Me
 
 > "First, solve the problem. Then, write the code."
 
-I am a passionate Software Engineer from Nanded, Maharashtra, India, with a strong interest in building impactful software and intelligent systems. I enjoy solving real-world problems through code, especially in the fields of Machine Learning, Data Science, and full-stack development.
+I am a passionate Software Engineer from Nanded, Maharashtra, India, focused on Machine Learning, Data Science, and building full-stack applications. I enjoy solving real-world problems and shipping production-ready systems.
 
-- 🔭 Building: DeepFake Audio Detection using SVM
-- 🌱 Learning: Machine Learning, Deep Learning, and AI product development
-- 🌾 Built: Paripakv — an AI platform for Indian farmers
-- 💬 Ask me about: Java, Python, ML workflows, and software engineering
+- 🔭 Currently: DeepFake Audio Detection (SVM) and small ML projects
+- 🌱 Learning: Deep Learning pipelines and production ML systems
+- 🌾 Built: Paripakv — an AI platform for Indian farmers (paripakv-krishivision)
+- 💬 Ask me about: Java, Python, ML workflows, deployment
 - 📫 Email: chirdekaran262@gmail.com
 - 🌐 Portfolio: https://karanchirde.netlify.app/
 
@@ -46,42 +46,29 @@ I am a passionate Software Engineer from Nanded, Maharashtra, India, with a stro
 
 <div align="center">
 
-### 💻 Languages
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+### 💻 Languages & Tools
 
-### 🌐 Web & Frameworks
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### 🌐 Frameworks & Libraries
+
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🤖 ML / Data Science
+### 🤖 ML & Data
+
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
-
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### ☁️ DevOps & Cloud
+
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
@@ -90,12 +77,14 @@ I am a passionate Software Engineer from Nanded, Maharashtra, India, with a stro
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chirdekaran262&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B35&text_color=C9D1D9" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chirdekaran262&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" height="180" alt="Top languages" />
+  <!-- Use readable colors for dark background -->
+  <img src="https://github-readme-stats.vercel.app/api?username=chirdekaran262&show_icons=true&hide_border=true&count_private=true&title_color=00D9FF&text_color=ffffff&icon_color=FF6B35&bg_color=0D1117" alt="GitHub stats" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chirdekaran262&layout=compact&hide_border=true&title_color=00D9FF&text_color=ffffff&bg_color=0D1117" height="180" alt="Top languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chirdekaran262&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=C9D1D9&sideLabels=C9D1D9" alt="GitHub streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chirdekaran262&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=ffffff&sideLabels=ffffff&date_format=%5B%5D" alt="GitHub streak stats" />
 </div>
 
 <div align="center">
@@ -108,7 +97,7 @@ I am a passionate Software Engineer from Nanded, Maharashtra, India, with a stro
 
 <div align="center">
 
-[![DeepFake Audio Detection](https://github-readme-stats.vercel.app/api/pin/?username=chirdekaran262&repo=DeepFake-SVM&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=FF6B35)](https://github.com/chirdekaran262/DeepFake-SVM)
+[![DeepFake Audio Detection](https://github-readme-stats.vercel.app/api/pin/?username=chirdekaran262&repo=DeepFake-SVM&hide_border=true&title_color=00D9FF&text_color=ffffff&bg_color=0D1117)](https://github.com/chirdekaran262/DeepFake-SVM)
 
 </div>
 
@@ -119,11 +108,11 @@ I am a passionate Software Engineer from Nanded, Maharashtra, India, with a stro
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karan-chirde-0666ab1aa)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/karanc26)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/karanc26)
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/chirdekaran262)
 [![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/karanchirde)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/c_karan26)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.leetcode.com/chirde_karan_262)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/c_karan26)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/chirde_karan_262)
 [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-%230F9D58.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/chirdeka801f)
 
 </div>
