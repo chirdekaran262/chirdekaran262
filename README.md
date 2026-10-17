@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:0D1117&height=120&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:0D1117&height=120&section=header" width="100%" />
 
 # Karan Chirde
 
@@ -13,22 +13,22 @@
 
 ---
 
-<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding gif" />
+<img align="right" width="330" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding gif" />
 
 ## 👨‍💻 About Me
 
-> *"First, solve the problem. Then, write the code."*
+> "First, solve the problem. Then, write the code."
 
-A passionate **Software Engineer** from Nanded, Maharashtra 🇮🇳 who loves building impactful software — from intelligent ML systems to full-stack web applications.
+I am a passionate Software Engineer from Nanded, Maharashtra, India, with a strong interest in building impactful software and intelligent systems. I enjoy solving real-world problems through code, especially in the fields of Machine Learning, Data Science, and full-stack development.
 
-- 🔭 Building **[DeepFake Audio Detection](https://github.com/chirdekaran262/DeepFake-SVM)** using SVM
-- 🌱 Deepening expertise in **Machine Learning & Deep Learning**
-- 🌾 Created **[Paripakv](https://paripakv-krishivision.onrender.com/)** — AI platform for Indian farmers
-- 💬 Ask me about **Java · Python · ML workflows**
-- 📫 **chirdekaran262@gmail.com**
-- 🌐 **[https://karanchirde.netlify.app/](https://karanchirde.netlify.app/)**
+- 🔭 Building: DeepFake Audio Detection using SVM
+- 🌱 Learning: Machine Learning, Deep Learning, and AI product development
+- 🌾 Built: Paripakv — an AI platform for Indian farmers
+- 💬 Ask me about: Java, Python, ML workflows, and software engineering
+- 📫 Email: chirdekaran262@gmail.com
+- 🌐 Portfolio: https://karanchirde.netlify.app/
 
-<br clear="right"/>
+<br clear="right" />
 
 ---
 
@@ -90,16 +90,16 @@ A passionate **Software Engineer** from Nanded, Maharashtra 🇮🇳 who loves b
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chirdekaran262&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B35&text_color=C9D1D9" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chirdekaran262&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chirdekaran262&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B35&text_color=C9D1D9" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chirdekaran262&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" height="180" alt="Top languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chirdekaran262&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E&sideNums=00D9FF" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chirdekaran262&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=C9D1D9&sideLabels=C9D1D9" alt="GitHub streak stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chirdekaran262&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B35&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chirdekaran262&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B35&area=true&hide_border=true" alt="Activity graph" />
 </div>
 
 ---
@@ -132,7 +132,7 @@ A passionate **Software Engineer** from Nanded, Maharashtra 🇮🇳 who loves b
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:0D1117&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:0D1117&height=80&section=footer" width="100%" />
 
 **⭐ If you like my work, consider giving my repos a star — it keeps me building!**
 
